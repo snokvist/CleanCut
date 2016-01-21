@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CleanCut</string>
+    <string name="action_settings">Settings</string>
+    <string name="startButton">Start</string>
+    <string name="stopButton">Stop</string>
+    <string name="accData">ACCEL-DATA</string>
+    <string name="gyroData">GYRO-DATA</string>
+    <string name="resetButton">RESET</string>
+</resources>
